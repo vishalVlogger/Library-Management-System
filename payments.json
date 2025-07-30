@@ -1,0 +1,79 @@
+[
+    {
+        "payment_id": "PAY202526061121649",
+        "reader_phone": "8855035914",
+        "amount": 500,
+        "payment_method": "Cash",
+        "payment_type": "Membership Fee",
+        "description": "Basic Membership",
+        "payment_date": "2025-06-26",
+        "status": "Completed",
+        "transaction_ref": "TXN449002"
+    },
+    {
+        "payment_id": "PAY202526061139762",
+        "reader_phone": "8855035914",
+        "amount": 1409.0,
+        "payment_method": "UPI",
+        "payment_type": "Book Purchase",
+        "description": "Purchase: The Lord of the Rings: The Fellowship of the Ring",
+        "payment_date": "2025-06-26",
+        "status": "Completed",
+        "transaction_ref": "TXN901974"
+    },
+    {
+        "payment_id": "PAY202526061152451",
+        "reader_phone": "9359143933",
+        "amount": 1000,
+        "payment_method": "Card",
+        "payment_type": "Membership Fee",
+        "description": "Premium Membership",
+        "payment_date": "2025-06-26",
+        "status": "Completed",
+        "transaction_ref": "TXN413747"
+    },
+    {
+        "payment_id": "PAY202526061154270",
+        "reader_phone": "9359143933",
+        "amount": 971.1,
+        "payment_method": "Digital Wallet",
+        "payment_type": "Book Purchase",
+        "description": "Purchase: The Curious Incident of the Dog in the Night-Time",
+        "payment_date": "2025-06-26",
+        "status": "Completed",
+        "transaction_ref": "TXN423350"
+    },
+    {
+        "payment_id": "PAY202527061152108",
+        "reader_phone": "9273348657",
+        "amount": 919.0,
+        "payment_method": "Net Banking",
+        "payment_type": "Book Purchase",
+        "description": "Purchase: The Great Gatsby",
+        "payment_date": "2025-06-27",
+        "status": "Completed",
+        "transaction_ref": "TXN789336"
+    },
+    {
+        "payment_id": "PAY202527061157597",
+        "reader_phone": "9273348657",
+        "amount": 1000,
+        "payment_method": "Cash",
+        "payment_type": "Membership Fee",
+        "description": "Premium Membership",
+        "payment_date": "2025-06-27",
+        "status": "Completed",
+        "transaction_ref": "TXN360199"
+    },
+    {
+        "payment_id": "PAY202513071053107",
+        "reader_phone": "9359143933",
+        "amount": 215.1,
+        "payment_method": "Cash",
+        "payment_type": "Book Purchase",
+        "description": "Purchase: Chanakya Neeti",
+        "payment_date": "2025-07-13",
+        "status": "Completed",
+        "transaction_ref": "TXN502727"
+    }
+]

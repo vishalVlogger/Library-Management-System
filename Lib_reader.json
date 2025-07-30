@@ -1,0 +1,91 @@
+[
+    {
+        "reader_id": "READ39330621",
+        "name": "Raju Rastogi",
+        "phone": "9359143933",
+        "email": "raju.rasto@gmail.com",
+        "address": "New Delhi",
+        "registration_date": "2025-06-21 22:02",
+        "books_issued": [
+            {
+                "book_title": "The Hobbit",
+                "issue_date": "2025-06-21 22:06",
+                "status": "returned",
+                "return_date": "2025-06-23, 11:37"
+            },
+            {
+                "book_title": "The Hunger Games",
+                "issue_date": "2025-06-21 22:13",
+                "status": "returned",
+                "return_date": "2025-06-22 21:56"
+            },
+            {
+                "book_title": "War and Peace",
+                "issue_date": "2025-06-23 11:04",
+                "status": "issued"
+            },
+            {
+                "book_title": "The Shining",
+                "issue_date": "2025-06-23 11:51",
+                "status": "issued"
+            }
+        ],
+        "total_books_issued": 2
+    },
+    {
+        "reader_id": "READ59140621",
+        "name": "Kapil Sharma",
+        "phone": "8855035914",
+        "email": "kapil.sharma04@gmail.com",
+        "address": "Amritsar, Punjab",
+        "registration_date": "2025-06-21 22:11",
+        "books_issued": [
+            {
+                "book_title": "Lord of the Flies",
+                "issue_date": "2025-06-21 22:11",
+                "status": "returned",
+                "return_date": "2025-06-22 22:37"
+            },
+            {
+                "book_title": "Don't Believe Everything You Think",
+                "issue_date": "2025-06-22 21:50",
+                "status": "returned",
+                "return_date": "2025-06-23 11:54"
+            },
+            {
+                "book_title": "Brave New World",
+                "issue_date": "2025-06-23 11:48",
+                "status": "issued"
+            },
+            {
+                "book_title": "Life of Pi",
+                "issue_date": "2025-06-23 11:52",
+                "status": "issued"
+            }
+        ],
+        "total_books_issued": 2
+    },
+    {
+        "reader_id": "READ86570627",
+        "name": "Rajendra Patil",
+        "phone": "9273348657",
+        "email": "raju.r@3497@gmail.com",
+        "address": "Jalgaon, MH",
+        "registration_date": "2025-06-27 11:47",
+        "books_issued": [
+            {
+                "book_title": "Pride and Prejudice",
+                "issue_date": "2025-06-27 11:47",
+                "status": "issued"
+            },
+            {
+                "book_title": "Animal Farm",
+                "issue_date": "2025-06-27 12:57",
+                "status": "issued"
+            }
+        ],
+        "total_books_issued": 2,
+        "total_fine_paid": 0,
+        "pending_fine": 0
+    }
+]

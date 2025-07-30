@@ -1,0 +1,35 @@
+[
+    {
+        "membership_id": "MEM5914202506",
+        "reader_name": "Kapil Sharma",
+        "reader_phone": "8855035914",
+        "plan": "Basic",
+        "start_date": "2025-06-26",
+        "expiry_date": "2025-12-23",
+        "status": "active",
+        "book_limit": 3,
+        "discount": 0
+    },
+    {
+        "membership_id": "MEM3933202506",
+        "reader_name": "Raju Rastogi",
+        "reader_phone": "9359143933",
+        "plan": "Premium",
+        "start_date": "2025-06-26",
+        "expiry_date": "2026-06-21",
+        "status": "active",
+        "book_limit": 5,
+        "discount": 10
+    },
+    {
+        "membership_id": "MEM8657202506",
+        "reader_name": "Rajendra Patil",
+        "reader_phone": "9273348657",
+        "plan": "Premium",
+        "start_date": "2025-06-27",
+        "expiry_date": "2026-06-22",
+        "status": "active",
+        "book_limit": 5,
+        "discount": 10
+    }
+]
